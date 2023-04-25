@@ -2,7 +2,7 @@
 
 ## LIVE URL
 
-https://rohitwho.github.io/Fit-Zone/
+https://angyn3.github.io/FitZone/
 
 ## Description
 
